@@ -1,9 +1,8 @@
 #Detective.js#
 
-Basic browser and os detection based on userAgent strings.
+Basic browser and os detection for javascript development.
 
 By:
-
 John Leonard - thejohnleonard [at] gmail
 
 ##CSS Classes appended to the html tag##
