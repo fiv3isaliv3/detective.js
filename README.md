@@ -12,14 +12,14 @@ html example for Chrome in OSX
 ```html
 <html class="osx webkit chrome chrome-23">
 ```
-OS Classes :
+**OS Classes :**
 
 * OSX : osx
 * iOS : ios
 * Android : android android-(version#)
 * Windows : windows [ windows-8 | windows-7 | windows-vista | windows-xp ]
 
-Browser Classes :
+**Browser Classes :**
 
 * Chrome : chrome chrome-(version#)
 * Safari : safari safari-(version#)
@@ -27,14 +27,14 @@ Browser Classes :
 * Firefox : firefox firefox-(version#)
 * Opera : opera opera-(version#)
 
-Browser Engine Classes :
+**Browser Engine Classes :**
 
 * Webkit (Safari/Chrome) : webkit
 * Trident (IE) : trident
 * Gecko (Firefox) : gecko
 * Presto (Opera) : presto
 
-Device Classes :
+**Device Classes :**
 
 * iPad : ipad
 * iPhone : iphone
