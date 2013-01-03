@@ -6,33 +6,12 @@ By:
 
 John Leonard - thejohnleonard [at] gmail
 
-##Current Released Version##
+##CSS Classes appended to the html tag##
 
-0.1
-
-Browser Detection :
-
-* Safari
-* IE
-* Opera
-* Chrome
-
-OS Detection :
-
-* Windows 8 - XP
-* Android (all versions)
-* OSX (version not detected)
-* iOS (version not detected)
-
-
-Device Detection :
-
-* iPad
-* iPhone
-* iPod
-
-##CSS Classes appended to <html>##
-
+html example for Chrome in OSX
+```html
+<html class="osx webkit chrome chrome-23">
+```
 OS Classes :
 
 * OSX : osx
